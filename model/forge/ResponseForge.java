@@ -5,10 +5,10 @@ import java.util.List;
 /**
  * TODO: add doc!
  */
-public class Forge1Response {
-    public final List<Forge1CurrencyInfo> currencyInfoList;
+public class ForgeResponse {
+    public final List<ForgeCurrencyInfo> currencyInfoList;
 
-    public Forge1Response(List<Forge1CurrencyInfo> currencyInfoList) {
+    public ForgeResponse(List<ForgeCurrencyInfo> currencyInfoList) {
         this.currencyInfoList = currencyInfoList;
     }
 }
