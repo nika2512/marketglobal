@@ -1,4 +1,4 @@
-package ru.const24.globalmarket.model.forge;
+package ru.nika2512.globalmarket.model.forge;
 
 import java.util.List;
 
